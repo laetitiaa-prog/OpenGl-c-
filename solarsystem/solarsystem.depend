@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1779031329 source:c:\users\admin\desktop\solar\solarsystem.cpp
+	<GL/glut.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut.h>
+
